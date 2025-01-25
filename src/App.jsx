@@ -1,9 +1,9 @@
-import React from "react";
+// import React from "react";
 import CircularLoader from "./components/CircularLoader";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       {/* Your app content here */}
       <CircularLoader />
     </div>
